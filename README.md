@@ -1,12 +1,12 @@
  # 简略步骤
   - 安装[ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
-  - 安装Ubuntu
+  - 安装[Ubuntu](https://github.com/MFDGaming/ubuntu-in-termux)
   - 安装MongoDB v5.0
   - 安装JDK17
   - 安装mitmdump
   - 更改wifi代理
  
- ## 安装 [Ubuntu](https://github.com/MFDGaming/ubuntu-in-termux)
+ ## 安装Ubuntu
  1. **安装依赖**
     ```bash ....  
     pkg update && apt-get upgrade -y
