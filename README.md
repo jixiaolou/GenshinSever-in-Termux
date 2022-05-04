@@ -79,3 +79,4 @@ apt install -y openjdk-17-jdk
 ``` bash
 java -version
 ```
+![正确](https://raw.githubusercontent.com/jixiaolou/GenshinSever-in-Termux/main/IMG_20220504_150203.jpg)
