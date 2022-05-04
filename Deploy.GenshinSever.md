@@ -1,5 +1,5 @@
  # 简略步骤
- ### 配置环境
+ ### [配置环境](https://github.com/jixiaolou/GenshinSever-in-Termux/blob/main/README.md)
  ### 配置GenshinSever
  - 克隆项目到本地
  - 编译项目打包jar
