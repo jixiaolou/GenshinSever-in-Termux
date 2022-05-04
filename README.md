@@ -1,10 +1,12 @@
  # 简略步骤
+ ### 配置环境
   - 安装[ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
   - 安装[Ubuntu](https://github.com/MFDGaming/ubuntu-in-termux)
   - 安装MongoDB v5.0
   - 安装JDK17
   - 安装mitmdump
   - 更改wifi代理
+ ### [配置GenshinSever](https://github.com/jixiaolou/GenshinSever-in-Termux/blob/main/Deploy.GenshinSever.md)
  
  ## 安装Ubuntu
  1. **安装依赖**
@@ -18,10 +20,7 @@
     ```bash
     cd ~
     git clone https://github.com/MFDGaming/ubuntu-in-termux.git
-    cd ubuntu-in-termux8   0
-    
-    
-        
+    cd ubuntu-in-termux
     chmod +x ubuntu.sh
     ./ubuntu.sh -y
     ```
@@ -76,7 +75,14 @@
 apt install -y openjdk-17-jdk
 ```
 检验是否安装成功
-``` bash
+```shell
 java -version
 ```
 ![正确](https://raw.githubusercontent.com/jixiaolou/GenshinSever-in-Termux/main/IMG_20220504_150203.jpg)
+## 安装mitmdump
+```shell
+apt install -y mitmdump
+```
+----
+做到这里已经配置完了，基本的东西已经装好了。
+可以转到配置GenshinSever这一阶段了。在上面简略步骤下
