@@ -1,4 +1,4 @@
- # 简略步骤
+ # 简略步骤（因本人学业问题，这个教材腰斩了。没做完）也没有补上的想法
  ### 配置环境
   - 安装[ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
   - 安装[Ubuntu](https://github.com/MFDGaming/ubuntu-in-termux)
